@@ -1,0 +1,29 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="7" y="6" width="34" height="34" rx="6" fill="url(#paint0_linear_29_6506)"/>
+<path d="M30 12L18 12C16.3431 12 15 13.3431 15 15L15 34H33L33 15C33 13.3431 31.6569 12 30 12Z" fill="url(#paint1_linear_29_6506)"/>
+<path d="M32 15L16 15C14.3431 15 13 16.3431 13 18L13 34L35 34V18C35 16.3431 33.6569 15 32 15Z" fill="url(#paint2_linear_29_6506)"/>
+<path d="M34 19L14 19C12.3431 19 11 20.3431 11 22L11 38L37 38V22C37 20.3431 35.6569 19 34 19Z" fill="url(#paint3_linear_29_6506)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 4C7.58172 4 4 7.58172 4 12V36C4 40.4183 7.58172 44 12 44H36C40.4183 44 44 40.4183 44 36V12C44 7.58172 40.4183 4 36 4H12ZM11 31.5H17.7368C18.4345 31.5 19 32.0655 19 32.7632C19 35.3792 21.1208 37.5 23.7368 37.5H24.2632C26.8792 37.5 29 35.3792 29 32.7632C29 32.0655 29.5655 31.5 30.2632 31.5H37C38.1046 31.5 39 30.6046 39 29.5V12C39 10.3431 37.6569 9 36 9H12C10.3431 9 9 10.3431 9 12V29.5C9 30.6046 9.89543 31.5 11 31.5Z" fill="url(#paint4_linear_29_6506)"/>
+<defs>
+<linearGradient id="paint0_linear_29_6506" x1="7" y1="-1.28571" x2="24" y2="43.0357" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3360FF"/>
+<stop offset="1" stop-color="#193F9F"/>
+</linearGradient>
+<linearGradient id="paint1_linear_29_6506" x1="24" y1="9.525" x2="28.0368" y2="38.9749" gradientUnits="userSpaceOnUse">
+<stop stop-color="#31A5D7"/>
+<stop offset="1" stop-color="#2B1BE8"/>
+</linearGradient>
+<linearGradient id="paint2_linear_29_6506" x1="24.4003" y1="15.2287" x2="24.4003" y2="33.9983" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5BBAFF"/>
+<stop offset="1" stop-color="#ACE1FF"/>
+</linearGradient>
+<linearGradient id="paint3_linear_29_6506" x1="24.473" y1="19.2287" x2="24.473" y2="37.9983" gradientUnits="userSpaceOnUse">
+<stop stop-color="#8FD0FF"/>
+<stop offset="1" stop-color="#E7F6FF"/>
+</linearGradient>
+<linearGradient id="paint4_linear_29_6506" x1="44" y1="53.375" x2="4.0941" y2="9.41309" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3662FD"/>
+<stop offset="1" stop-color="#8673FF"/>
+</linearGradient>
+</defs>
+</svg>
